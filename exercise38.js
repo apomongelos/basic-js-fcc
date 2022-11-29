@@ -1,0 +1,22 @@
+/**
+ * Exercise Thirty-Eight
+ * Word Blanks
+ */
+
+const myNoun = 'dog';
+const myAdjective = 'big';
+const myVerb = 'ran';
+const myAdverb = 'quickly';
+
+// Only change code below this line
+
+const wordBlanks =
+  'My ' +
+  myNoun +
+  ' is ' +
+  myAdjective +
+  ' and ' +
+  myVerb +
+  ' very ' +
+  myAdverb;
+// Only change code above this line
